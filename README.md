@@ -1,1 +1,1 @@
-# apsolwent
+# absolwent
